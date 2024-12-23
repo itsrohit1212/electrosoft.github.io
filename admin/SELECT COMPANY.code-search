@@ -1,0 +1,9 @@
+# Query: SELECT COMPANY
+# ContextLines: 1
+
+1 result - 1 file
+
+admin\database.php:
+  72                                  <div class="form-group text-center option">
+  73:                                     <!-- <label> Company </label> -->
+  74                                      <select class="form-control select2 select2-hidden-accessible" style="width: 100%" tabindex="-1" aria-hidden="true" class="input" name="company">
